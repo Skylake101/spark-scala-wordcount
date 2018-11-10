@@ -41,4 +41,5 @@ The results I got from the Scala commands:
 The most frequent word is "I" with a count of 116. "The" recieved a count of 71. "OTHELLO" revieved a count of 70. "and" recieved a count of 53 and lastly "my" recieved a count of 48.
 
 With the data I created this chart:
-![Othello Count](https://github.com/SierraK/spark-scala-wordcount/Images/OthelloGraph.PNG)
+![Othello Count](Images/OthelloGraph.PNG)
+
