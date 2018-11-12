@@ -30,11 +30,17 @@ foreach(x=>println(x))
 The results I got from the Scala commands:
 
 | Count | Word    |
+
 |-------|---------|
+
 | 116   | I       |
+
 | 71    | The     |
+
 | 70    | OTHELLO |
+
 | 53    | and     |
+
 | 48    | my      |
 
 
